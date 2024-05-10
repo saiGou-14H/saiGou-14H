@@ -5,9 +5,9 @@
 - 🖥️Committed to becoming a full-stack engineer
 
 ## 🪄 I use
-- 🔯Java at best, a little bit of python
-- 🐍Not bad for web crawler
-- 🍵Some Vue
+- :gift: ​Java at best, a little bit of python
+- 🐍 Not bad for web crawler
+- 🍵 Some Vue
 
 
 ## 📫How to reach me

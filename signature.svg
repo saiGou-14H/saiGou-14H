@@ -16,8 +16,7 @@
     <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
         <defs>
             <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#53d46d" />
-                <stop offset="100%" stop-color="#8cdb9a" />
+                <stop offset="0%" stop-color="#B993D6"/><stop offset="100%" stop-color="#8CA6DB"/>
             </linearGradient>
         </defs>
         <path d="" fill="url(#linear)" opacity="0.4">
@@ -34,5 +33,5 @@
         </path>
     </g>
     <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;"
-        stroke="#none" stroke-width="10">Stay Sensitive, Maintain Perspective.</text>
+        stroke="#none" stroke-width="10">Proficiency comes by experience.</text>
 </svg>
